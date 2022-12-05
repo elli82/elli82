@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elli82, Elin that is.
-- 👀 I’m interested in animals, horse-riding, skiing, a good glass of wine, to make life matter!
-- 🌱 I’m currently learning C#, my first programming language ever.
+- 👀 I’m interested in animals, horse-riding, skiing, a good glass of wine, to make life matter.
+- 🌱 I’m currently learning C#.
 
 <!---
 elli82/elli82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
